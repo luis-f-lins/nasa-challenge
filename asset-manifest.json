@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nasa-challenge/static/css/main.7e92ef8b.css",
+    "main.js": "/nasa-challenge/static/js/main.1ee6bee2.js",
+    "static/js/787.3cd04257.chunk.js": "/nasa-challenge/static/js/787.3cd04257.chunk.js",
+    "index.html": "/nasa-challenge/index.html",
+    "main.7e92ef8b.css.map": "/nasa-challenge/static/css/main.7e92ef8b.css.map",
+    "main.1ee6bee2.js.map": "/nasa-challenge/static/js/main.1ee6bee2.js.map",
+    "787.3cd04257.chunk.js.map": "/nasa-challenge/static/js/787.3cd04257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e92ef8b.css",
+    "static/js/main.1ee6bee2.js"
+  ]
+}
